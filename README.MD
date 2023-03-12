@@ -1,4 +1,4 @@
-# Left ventricle segmentation using U-Net/V-Net
+# Left ventriclar segmentation using U-Net/V-Net for myocardial perfuison SPECT images
 
 # 1. Environment
 - pytorch>1.10
